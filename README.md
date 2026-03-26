@@ -6,13 +6,17 @@
 🚀 Apasionado por crear soluciones y resolver problemas
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
 ---
 
 ## 🚀 Sobre mí
-- 🔥 Me enfoco en desarrollo web moderno  
-- 🧠 Me gusta detectar errores y optimizar sistemas  
-- ⚡ Siempre aprendiendo nuevas tecnologías  
-- 🎯 Buscando oportunidades como desarrollador  
+- 🔥 Desarrollo aplicaciones web modernas  
+- 🧠 Enfocado en debugging y optimización  
+- ⚡ Aprendizaje constante  
+- 🎯 Buscando oportunidad como desarrollador  
 
 ---
 
@@ -27,16 +31,18 @@
 ## 📌 Proyectos Destacados
 
 ### 🧩 App de Gestión de Tareas
+🔗 https://github.com/RenteriaH/Suplementos-web  
 ✔️ HTML, CSS, JavaScript  
-✔️ Base de datos SQL  
-✔️ Optimización y debugging  
+✔️ Manejo de datos  
+✔️ Enfoque en solución de errores  
 
 ---
 
-### 🌐 Portafolio Web
+### 🌐 Página Web de Suplementos
+🔗 https://github.com/RenteriaH/Suplementos-web  
 ✔️ Diseño responsivo  
-✔️ Código limpio  
-✔️ Mejora de rendimiento  
+✔️ Interfaz atractiva  
+✔️ Optimización de rendimiento  
 
 ---
 
