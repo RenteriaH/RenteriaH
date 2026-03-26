@@ -52,9 +52,9 @@
 ## 📊 Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RenteriaH&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RenteriaH&show_icons=true&theme=tokyonight&hide_border=true" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RenteriaH&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RenteriaH&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
