@@ -1,6 +1,6 @@
 <!-- 🔥 BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=👋 Hola, soy Guillermo Renteria&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hola%2C%20soy%20Guillermo%20Renteria&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
