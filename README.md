@@ -1,12 +1,12 @@
 <!-- 🔥 BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hola%2C%20soy%20Guillermo%20Renteria&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hello%2C%20I'm%20Guillermo%20Renteria&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-💻 Desarrollador Web (Frontend & Backend) <br>
-🎓 Ingeniería en Sistemas Computacionales <br>
-🚀 Apasionado por crear soluciones y resolver problemas
+💻 Web Developer (Frontend & Backend) <br>
+🎓 Computer Systems Engineering <br>
+🚀 Passionate about creating solutions and solving problems
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 
 ---
 
-## 🚀 Sobre mí
-- 🔥 Desarrollo aplicaciones web modernas  
-- 🧠 Enfocado en debugging y optimización  
-- ⚡ Aprendizaje constante  
-- 🎯 Buscando oportunidad como desarrollador  
+## 🚀 About Me
+- 🔥 I develop modern web applications  
+- 🧠 Focused on debugging and optimization  
+- ⚡ Continuous learning  
+- 🎯 Looking for opportunities as a developer  
 
 ---
 
-## 🧰 Tecnologías
+## 🧰 Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,kotlin" />
@@ -31,25 +31,25 @@
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 
-### 🧩 App de Gestión de Tareas
+### 🧩 Task Management App
 🔗 https://github.com/RenteriaH/Suplementos-web  
 ✔️ HTML, CSS, JavaScript  
-✔️ Manejo de datos  
-✔️ Enfoque en solución de errores  
+✔️ Data handling  
+✔️ Focus on problem-solving  
 
 ---
 
-### 🌐 Página Web de Suplementos
+### 🌐 Supplement Website
 🔗 https://github.com/RenteriaH/Suplementos-web  
-✔️ Diseño responsivo  
-✔️ Interfaz atractiva  
-✔️ Optimización de rendimiento  
+✔️ Responsive design  
+✔️ Attractive interface  
+✔️ Performance optimization  
 
 ---
 
-## 📊 Estadísticas
+## 📊 Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RenteriaH&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/guillermo-renteria-9263052a6">
@@ -69,8 +69,8 @@
 
 ---
 
-## ⚡ Frase
-> "Resolver problemas es mi especialidad 💻🔥"
+## ⚡ Quote
+> "Solving problems is my specialty 💻🔥"
 
 <!-- 🔥 FOOTER -->
 <p align="center">
