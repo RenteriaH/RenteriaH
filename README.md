@@ -1,78 +1,44 @@
-<!-- 🔥 BANNER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hello%2C%20I'm%20Guillermo%20Renteria&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+### Guillermo Rentería · Desarrollador de software
 
-<p align="center">
-💻 Web Developer (Frontend & Backend) <br>
-🎓 Computer Systems Engineering <br>
-🚀 Passionate about creating solutions and solving problems
-</p>
+Integraciones con APIs, modelado de datos y automatización con IA sobre sistemas en producción.
+Estudiante de Ingeniería en Sistemas Computacionales (Instituto Tecnológico de La Laguna) · Torreón, México.
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+*Software developer focused on API integrations, data modeling and AI-assisted automation. [English version of my portfolio](https://renteriah.github.io/en/).*
+
+**[Portafolio](https://renteriah.github.io/)** · **[Caso de estudio](https://renteriah.github.io/casos/ecommerce-en-produccion/)** · **[CV](https://renteriah.github.io/cv/)** · **[LinkedIn](https://www.linkedin.com/in/guillermo-renteria-9263052a6/)**
 
 ---
 
-## 🚀 About Me
-- 🔥 I develop modern web applications  
-- 🧠 Focused on debugging and optimization  
-- ⚡ Continuous learning  
-- 🎯 Looking for opportunities as a developer  
+#### Qué hago hoy
 
----
+**Residencia profesional en MAHA Home de México (jul–nov 2026).** Desarrollo e integración sobre una tienda Shopify Plus
+en producción con más de 10,000 productos:
 
-## 🧰 Technologies
+- API Admin de Shopify con GraphQL y REST: operaciones masivas, metaobjetos y escritura verificada de archivos del tema.
+- Control de concurrencia con escritura optimista para modificar el catálogo en vivo sin colisiones.
+- Modelo de datos de 84 campos, con los límites de la plataforma medidos antes de diseñar.
+- Diagnóstico de causa raíz de fallos entre sistemas, y rendimiento web medido con método.
+- Coordinación de agentes de IA con permisos de un solo uso, verificación posterior y reversión preparada.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,kotlin" />
-</p>
+El código de la empresa no es público; el [caso de estudio](https://renteriah.github.io/casos/ecommerce-en-produccion/) explica el trabajo sin exponer a nadie.
 
----
+#### Proyectos
 
-## 📌 Featured Projects
+| Proyecto | Qué es | Stack | Código |
+|---|---|---|---|
+| [Portafolio](https://github.com/RenteriaH/portfolio) | Sitio bilingüe estático, Lighthouse medido | Astro · TypeScript | Público |
+| [GYMWARRIOR](https://github.com/RenteriaH/Suplementos-web) | Tienda académica saneada en 2026: CSRF, consultas preparadas, pruebas e2e | PHP · MySQL · Playwright | Público |
+| [Spotify-API](https://github.com/RenteriaH/Spotify-API) | Cliente Android de la Web API de Spotify con OAuth | Kotlin · Compose · Hilt · Retrofit | Público |
+| QCE | Motor de datos de mercado con aprobación humana | Python · WebSockets · DuckDB · systemd | Privado |
+| EcomOS | Operación de e-commerce con agentes de IA y servidores MCP | Python · FastAPI · Node.js · MCP | Privado |
 
-### 🧩 Task Management App
-🔗 https://github.com/RenteriaH/Suplementos-web  
-✔️ HTML, CSS, JavaScript  
-✔️ Data handling  
-✔️ Focus on problem-solving  
+Los proyectos privados los describo en el portafolio y puedo explicarlos en una entrevista.
+En varios de ellos el código lo escribieron agentes de IA bajo mi dirección; lo indico en cada caso.
 
----
+#### Tecnologías, por dónde las he usado
 
-### 🌐 Supplement Website
-🔗 https://github.com/RenteriaH/Suplementos-web  
-✔️ Responsive design  
-✔️ Attractive interface  
-✔️ Performance optimization  
+- **En producción:** JavaScript · CSS · HTML · Shopify Liquid · Node.js · GraphQL · REST · Playwright
+- **En proyectos propios:** Python · FastAPI · TypeScript · React · pytest · Vitest · Linux · systemd · Docker · GitHub Actions
+- **En formación académica:** PHP · MySQL · Kotlin · Java · C# · Swift
 
----
-
-## 📊 Stats
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RenteriaH&show_icons=true&theme=tokyonight&hide_border=true" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RenteriaH&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/guillermo-renteria-9263052a6">
-<img src="https://img.shields.io/badge/LinkedIn-Guillermo-blue?style=for-the-badge&logo=linkedin" />
-</a>
-</p>
-
----
-
-## ⚡ Quote
-> "Solving problems is my specialty 💻🔥"
-
-<!-- 🔥 FOOTER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+📍 Torreón, Coahuila · Abierto a puestos de desarrollo presenciales en La Laguna, híbridos o remotos.
