@@ -66,8 +66,8 @@ simple: leo antes de cambiar algo, verifico después y documento lo que hice.
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | **[Portafolio](https://github.com/RenteriaH/RenteriaH.github.io)** | Sitio bilingüe estático con pruebas de contenido, CI y Lighthouse 99–100 | Astro · TypeScript · Vitest |
-| **[GYMWARRIOR](https://github.com/RenteriaH/Suplementos-web)** | Tienda PHP saneada: consultas preparadas, CSRF, subidas validadas, 13 pruebas e2e · [caso de estudio](https://renteriah.github.io/casos/saneamiento-gymwarrior/) | PHP · MySQL · Playwright |
-| **[Spotify-API](https://github.com/RenteriaH/Spotify-API)** | Cliente Android de la Web API de Spotify con OAuth | Kotlin · Compose · Hilt · Retrofit |
+| **[GYMWARRIOR](https://renteriah.github.io/casos/saneamiento-gymwarrior/)** | Tienda PHP saneada: consultas preparadas, CSRF, subidas validadas y 13 pruebas e2e (caso de estudio; el código se publicará tras su revisión de seguridad) | PHP · MySQL · Playwright |
+| **[Simulador de carreras](https://github.com/RenteriaH/VIDEOGAME_CARRERA)** | Juego 2D: pistas generadas a partir de imágenes, colisiones por máscara y sensores de distancia | Python · pygame · NumPy · SciPy |
 | **QCE** · privado | Motor de datos de mercado en tiempo real con aprobación humana | Python · WebSockets · DuckDB · systemd |
 | **EcomOS** · privado | Operación de e-commerce con agentes de IA y servidores MCP | Python · FastAPI · Node.js · MCP |
 
