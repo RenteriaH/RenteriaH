@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="t d">
+  <title id="t">Guillermo Rentería · Desarrollador de software</title>
+  <desc id="d">Integraciones con APIs, desarrollo web y automatización con IA. Torreón, México.</desc>
+  <rect width="900" height="210" rx="12" fill="#eef2f5"/>
+  <text x="40" y="58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#4f5e6b">Desarrollador de software · Torreón, México</text>
+  <text x="40" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#13212e">Guillermo Rentería</text>
+  <text x="40" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#13212e">Integraciones con APIs · Desarrollo web · Automatización con IA</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+    <rect x="596" y="36" width="270" height="138" rx="8" fill="#ffffff" stroke="#d3dbe2"/>
+    <text x="614" y="66" fill="#6a3fa0">leer</text><text x="704" y="66" fill="#4f5e6b">sha 3f9a…</text><text x="848" y="66" fill="#0b6e5b" text-anchor="end">ok</text>
+    <text x="614" y="92" fill="#6a3fa0">comparar</text><text x="704" y="92" fill="#4f5e6b">= actual</text><text x="848" y="92" fill="#0b6e5b" text-anchor="end">ok</text>
+    <text x="614" y="118" fill="#6a3fa0">escribir</text><text x="704" y="118" fill="#4f5e6b">si no cambió</text><text x="848" y="118" fill="#0b6e5b" text-anchor="end">200</text>
+    <text x="614" y="144" fill="#6a3fa0">releer</text><text x="704" y="144" fill="#4f5e6b">sha 7c21…</text><text x="848" y="144" fill="#0b6e5b" text-anchor="end">ok</text>
+  </g>
+  <rect x="40" y="168" width="64" height="4" rx="2" fill="#0b6e5b"/>
+</svg>
