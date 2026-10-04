@@ -23,9 +23,9 @@ y reviso y verifico cada cambio; en cada proyecto indico qué parte escribieron 
 
 ## Proyectos
 
-**Públicos**
+**Código público**
 
-- **[GYMWARRIOR](https://renteriah.github.io/casos/saneamiento-gymwarrior/)** — tienda en PHP y MySQL saneada: consultas preparadas, CSRF, subidas validadas y compra en transacción. 13 pruebas e2e (10 fallaban en el original). <sub>PHP · MySQL · Playwright · caso de estudio; el código se publicará tras su revisión de seguridad</sub>
+- **[GYMWARRIOR](https://github.com/RenteriaH/GYMWARRIOR)** — tienda en PHP y MySQL saneada: consultas preparadas, CSRF, subidas validadas y compra en transacción. 13 pruebas e2e (10 fallaban en el original). <sub>PHP · MySQL · Playwright · [caso de estudio](https://renteriah.github.io/casos/saneamiento-gymwarrior/)</sub>
 - **[Portafolio](https://github.com/RenteriaH/RenteriaH.github.io)** — sitio bilingüe en Astro con pruebas de contenido, e2e en tres anchos y CI. Lighthouse 100 en accesibilidad y SEO. <sub>Astro · TypeScript · Vitest</sub>
 - **[Simulador de carreras 2D](https://github.com/RenteriaH/VIDEOGAME_CARRERA)** — pistas generadas a partir de imágenes, colisiones por máscara y sensores de distancia. <sub>Python · pygame · NumPy</sub>
 
