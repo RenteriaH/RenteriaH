@@ -27,6 +27,7 @@ y reviso y verifico cada cambio; en cada proyecto indico qué parte escribieron 
 
 - **[GYMWARRIOR](https://github.com/RenteriaH/GYMWARRIOR)** — tienda en PHP y MySQL saneada: consultas preparadas, CSRF, subidas validadas y compra en transacción. 13 pruebas e2e (10 fallaban en el original). <sub>PHP · MySQL · Playwright · [caso de estudio](https://renteriah.github.io/casos/saneamiento-gymwarrior/)</sub>
 - **[Portafolio](https://github.com/RenteriaH/RenteriaH.github.io)** — sitio bilingüe en Astro con pruebas de contenido, e2e en tres anchos y CI. Lighthouse 100 en accesibilidad y SEO. <sub>Astro · TypeScript · Vitest</sub>
+- **[Cliente Android de Spotify](https://github.com/RenteriaH/Spotify-API-Public)** — app en Kotlin y Jetpack Compose con 28 endpoints de la Web API, OAuth con renovación del token y reproducción. <sub>Kotlin · Compose · Retrofit · Hilt</sub>
 - **[Simulador de carreras 2D](https://github.com/RenteriaH/VIDEOGAME_CARRERA)** — pistas generadas a partir de imágenes, colisiones por máscara y sensores de distancia. <sub>Python · pygame · NumPy</sub>
 
 **Privados** — descritos en el [portafolio](https://renteriah.github.io/#trabajo), sin código ni detalles internos
