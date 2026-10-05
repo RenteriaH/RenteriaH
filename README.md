@@ -3,7 +3,7 @@
   <img src="assets/header-light.svg" alt="Guillermo Rentería · Desarrollador de software · Software web, de la interfaz a la API" width="100%">
 </picture>
 
-**[Portafolio](https://renteriah.github.io/)** · [English](https://renteriah.github.io/en/) · [CV (PDF)](https://renteriah.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/guillermo-renteria-9263052a6/)
+**[Portafolio](https://renteriah.github.io/)** · [English](https://renteriah.github.io/en/) · [CV (PDF)](https://renteriah.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/guillermo-renteria-9263052a6/) · [renteg18@gmail.com](mailto:renteg18@gmail.com)
 
 Desarrollador de software y estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de La Laguna.
 Hago **frontend**, **integración de APIs REST y GraphQL**, **backend** y **pruebas automatizadas**. Trabajo con agentes de IA
